@@ -1,6 +1,6 @@
+# Livro de Receitas :man_cook: 
 
-#Livro de Receitas:
+ ### Olá! Bem vindo ao meu livro de receitas! :handshake: 
 
- Olá! Bem vindo ao meu livro de receitas!
- 
  - Strogonoff de frango
+ - Pavê
