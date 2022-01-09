@@ -1,7 +1,6 @@
- 
-#Stronoff de frango 
+# Stronoff de frango :chicken: 
 
-###Igredientes
+### Igredientes
 
 - 3 peitos de frango cortados em cubos
 
@@ -25,7 +24,7 @@
 
 - batata palha a gosto
 
-#MODO DE PREPARO
+# MODO DE PREPARO
 
 - Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
